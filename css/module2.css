@@ -1,1 +1,9 @@
+/*size-setting*/
+@media (max-width: 767px){section{width:100% 100% 100%;}}
+@media (min-width: 768px) and (max-width: 991px){section{width:50% 50% 100%;}}
+@media (min-width: 992px){section{width:calc(100% / 3);}
+/*general-setting*/
 body{background:rgba(253,221,221,.65);}
+/*font-size-setting*/
+header h1{font-size:75%;}
+section h3{font-size:25%;}
