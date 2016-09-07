@@ -3,8 +3,11 @@
 @media (min-width: 768px) and (max-width: 991px){section{width:50% 50% 100%;}}
 @media (min-width: 992px){section{width:calc(100% / 3);}
 /*general-setting*/
-body{background:rgba(253,221,221,.65);}
-.box{background:rgba(255,255,251,.65);border:1px dashed rgba(138,121,176,.75);color:rgba(176,174,139,.75);}
+body{background:rgba(248,208,125,.95);}
+.box{border:1.5px dashed rgba(19,19,19,.95);color:rgba(248,208,125,.85);}
+.box1 .h31{background:rgba(170,128,30,.85);}
+.box2 .h32{background:rgba(79,116,103,.85);}
+.box3 .h33{background:rgba(150,42,24,.85);}
 /*font-size-setting*/
-header h1{font-size:75%;}
-section h3{font-size:25%;}
+.header .h1{font-size:75%;color:rgba(19,19,19,.75);}
+.section .h3{font-size:25%;color:rgba(248,208,125,.75);}
