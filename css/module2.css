@@ -1,5 +1,5 @@
 /*size-setting*/
-@media (max-width: 767px){section{width:100% 100% 100%;}}
+@media (max-width: 767px){section{width:25% 40% 35%;}}
 @media (min-width: 768px) and (max-width: 991px){section{width:50% 50% 100%;}}
 @media (min-width: 992px){section{width:calc(100% / 3);}
 /*general-setting*/
