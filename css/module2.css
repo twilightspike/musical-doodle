@@ -11,7 +11,7 @@ body{background:rgba(248,208,125,.95);}
 .p1{color:rgba(170,128,30,95);}
 .p2{color:rgba(79,116,103,.95);}
 .p3{color:rgba(150,42,24,.95)}
-section{display:flex;justify-content:space-around;}
+.section{display:flex;justify-content:space-around;}
 /*font-size-setting*/
 .header .h1{font-size:75%;color:rgba(19,19,19,.75);text-align:center;}
 section .h3{font-size:25%;color:rgba(248,208,125,.75);}
