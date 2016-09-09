@@ -1,5 +1,9 @@
 /*size-setting*/
-@media screen and (max-width: 767px){.box{width:25% 40% 35%;}}
+@media screen and (max-width: 767px){
+  .box1{width:25%;}
+  .box2{width:40%;}
+  .box3{width:35%;}
+}
 @media screen and (min-width: 768px) and (max-width: 991px){.box{width:50% 50% 100%;}}
 @media screen and (min-width: 992px){.box{width:calc(100% / 3);}
 /*general-setting*/
