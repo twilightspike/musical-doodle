@@ -1,8 +1,8 @@
-.container{border:1.5px solid rgba(255,3,62,.85);display:inline-block;width:98%;}
+.container{border:1.5px solid rgba(255,3,62,.85);display:flex;width:98%;}
 .header{border:1.5px dotted rgba(255,3,62,.85);width:98%;}
 /*size-setting*/
 @media screen and (max-width: 767px){
-  .box{float:left;width:100%;}
+  .box{flex-direction:row;width:100%;}
 }
 @media screen and (min-width: 768px) and (max-width: 991px){
   .box{width:100%;}
