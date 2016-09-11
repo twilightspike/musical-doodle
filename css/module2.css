@@ -1,6 +1,6 @@
 /*size-setting*/
 @media screen and (max-width: 767px){
-  .box{position:;}
+  .box{position:absolute;}
   .box1{width:25%;}
   .box2{width:40%;}
   .box3{width:35%;}
