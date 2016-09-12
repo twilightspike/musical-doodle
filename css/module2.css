@@ -17,7 +17,7 @@
 @media screen and (min-width: 992px){.box{width:calc(100% / 3);}
 /*general-setting*/
 body{background:rgba(248,208,125,.95);}
-.box{border:1.5px dashed rgba(19,19,19,.95);color:rgba(248,208,125,.85);height:300px;margin:5px;}
+.box{border:1.5px dashed rgba(19,19,19,.95);color:rgba(248,208,125,.85);height:300px;margin:5px;padding:30px;}
 .box1 .h31{background:rgba(170,128,30,.85);}
 .box2 .h32{background:rgba(79,116,103,.85);}
 .box3 .h33{background:rgba(150,42,24,.85);}
