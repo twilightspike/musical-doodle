@@ -4,7 +4,7 @@
 .right{float:right;margin-left:30px;}
 /*size-setting*/
 @media screen and (max-width: 767px){
-  .box{flex-direction:column;width:100%;}
+  .box{flex-direction:row;width:100%;}
 }
 @media screen and (min-width: 768px) and (max-width: 991px){
   .box{flex:1 1 2;flex-direction:row;}
