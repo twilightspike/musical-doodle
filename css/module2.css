@@ -1,7 +1,7 @@
 .box{border:1.5px solid rgba(255,3,62,.85);display:flex-wrap;width:98%;box-sizing:border-box;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;}
 .header{border:1.5px dotted rgba(255,3,62,.85);width:98%;}
 .footer{bottom:5%;position:fixed;width:98%;}
-.right{border:1.5px solid rgba(255,3,62,.85);float:right;margin-left:30px;}
+.right{border:1.5px solid rgba(255,3,62,.85);float:right;margin-left:30px;margin-top:0;margin-right:0;}
 .wrapper{margin:0 auto;}
 /*size-setting*/
 @media screen and (max-width: 767px){
